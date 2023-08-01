@@ -9,7 +9,7 @@ public class TestDemo
  	@Test 
  	private void simple() 
  	{
-		Reporter.log("Hi Prasanthi");
+		Reporter.log("Hii Prasanthi");
 
 	}
 	
