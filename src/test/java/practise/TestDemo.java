@@ -10,6 +10,7 @@ public class TestDemo
  	private void simple() 
  	{
 		Reporter.log("Hii Prasanthi");
+		Reporter.log("Hi Tansi");
 
 	}
 	
